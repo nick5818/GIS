@@ -1,0 +1,13 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <NoDataValue le_hex_equiv="000000000000F87F">nan</NoDataValue>
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">1408.0400390625</MDI>
+      <MDI key="STATISTICS_MEAN">86.430863682326</MDI>
+      <MDI key="STATISTICS_MINIMUM">-1.6699999570847</MDI>
+      <MDI key="STATISTICS_STDDEV">197.08340694177</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
